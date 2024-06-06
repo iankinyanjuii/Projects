@@ -1,0 +1,21 @@
+my_service/
+├── app/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── auth.py
+│   ├── sms.py
+├── tests/
+│   ├── test_app.py
+│   ├── test_auth.py
+│   ├── test_sms.py
+│   ├── test_routes.py
+├── migrations/
+│   ├── ...
+├── requirements.txt
+├── config.py
+├── run.py
+├── .github/
+│   ├── workflows/
+│       ├── ci.yml
+├── README.md
